@@ -4,5 +4,5 @@
   "environment" : "dev",
   "image_tag" : "cassieatt6240-22",
   "server_address" : "https://kubernetes.default.svc",
-  "username" : "cassieatt6240"
+  "username" : "danfatt6243130"
 }
